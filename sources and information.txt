@@ -1,0 +1,8 @@
+Final Consumption
+https://data.un.org/Data.aspx?d=EDATA&f=cmID:EL;trID:12&c=2,5,6,7,8&s=_crEngNameOrderBy:asc,_enID:asc,yr:desc&v=1
+
+Gross demand
+https://data.un.org/Data.aspx?d=EDATA&f=cmID:EL;trID:GA&c=2,5,6,7,8&s=_crEngNameOrderBy:asc,_enID:asc,yr:desc&v=1
+
+Gross Production
+https://data.un.org/Data.aspx?d=EDATA&f=cmID:EL;trID:12&c=2,5,6,7,8&s=_crEngNameOrderBy:asc,_enID:asc,yr:desc&v=1
